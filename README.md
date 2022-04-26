@@ -12,6 +12,9 @@ This web page filters multiple criteria in a changing website using HTML/CSS, Bo
 
 To use the website to find a triangle shaped UFO in Denver for May 3rd 2012, the users would enter the target date in the first blank, "CO" for State, "Denver" for City, "USA" for Country, and "triangle" for Shape. If the table shows no results then there aren't any of those type of sightings in that area on that date. 
 
+![image](https://user-images.githubusercontent.com/91761393/165301081-756b42b0-a0ae-43f8-ba1e-08e16650356a.png)
+
+
 # Summary 
 
 One drawback of this webpage is the syntax for searching. There are multiple types of date formats depending on the region of the world. Also, the engine is not sensitive to capitalized letters. 
